@@ -3,7 +3,7 @@
 
 ### 🌐 About Me  
 
-I’m **Phaneesh Katti**, a cybersecurity enthusiast and graduate student at **IIT Delhi**, specializing in advanced cybersecurity strategies, malware analysis, and secure system design. My journey in tech revolves around exploring vulnerabilities, crafting secure environments, and pushing the boundaries of digital defense.
+I’m **Phaneesh Katti**, a cybersecurity enthusiast and a masters graduate student at **IIT Delhi**, specializing in advanced cybersecurity strategies, malware analysis, and secure system design. My journey in tech revolves around exploring vulnerabilities, crafting secure environments, and pushing the boundaries of digital defense.
 
 ---
 
@@ -41,7 +41,7 @@ Here are some of my key projects that showcase my expertise in cybersecurity:
 - **M.Tech in Cybersecurity**, IIT Delhi (Current)  
    Focus Areas: Malware Analysis, Secure Systems, Advanced Cryptography  
 
-- **B.E. in Computer Science**, [Your Undergraduate Institution]  
+- **B.E. in Computer Science**, PES University, Bengaluru 
    Specialized in foundational computer science principles and cybersecurity basics.  
 
 ---
